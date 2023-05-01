@@ -200,12 +200,3 @@ if __name__ == "__main__":
 
     accuracy_test = accuracy_score(Y_test, classified_test)
     print('Test Data: Accuracy: {:.2f}'.format(accuracy_test))
-
-
-
-
-
-
-
-
-
