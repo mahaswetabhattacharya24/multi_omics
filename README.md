@@ -1,6 +1,6 @@
-# multi_omics
+#Multi Omics
 
-This script tries to find an underlying manifold for scRNAseq data obtained through generative model - a deep autoencoder.
+This autoencoder script tries to find an underlying manifold for scRNAseq data obtained through generative model - a deep autoencoder.
 The script does the following:
   i. Loads scRNAseq data
   ii. Identifies the highly variable genes
