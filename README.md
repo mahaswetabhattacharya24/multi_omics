@@ -1,4 +1,4 @@
-#Generative model to find underlying latent space in large-scale scRNAseq data
+## Generative model to find underlying latent space in large-scale scRNAseq data
 This autoencoder script tries to find an underlying manifold for scRNAseq data obtained through generative model - a deep autoencoder.
 The script does the following:
   i. Loads scRNAseq data
